@@ -1,0 +1,1 @@
+SHA-256 produces a 256-bit digest, shown as 64 hexadecimal characters.

@@ -1,0 +1,1 @@
+A hash fingerprints bytes; it does not encrypt or hide a file.

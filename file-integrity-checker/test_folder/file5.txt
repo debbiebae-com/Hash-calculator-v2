@@ -1,0 +1,1 @@
+Keep trusted baseline hashes separate from the files you monitor.

@@ -1,0 +1,1 @@
+Only inspect files that you own or have permission to test.
